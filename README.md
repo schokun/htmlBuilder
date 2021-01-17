@@ -1,7 +1,12 @@
 # Процесс развертывания сервера
 
 - создать папку `code` в домашней директории;
-- в папкy `code` клонировать репозиторий `git clone https://github.com/pavhont/docker-mysql.git`;
+- в папкy `code` клонировать репозиторий 
+
+```bash
+git clone https://github.com/pavhont/docker-mysql.git
+```
+
 - для запуска контейнеров в папке `docker-mysql` выполнить команду 
 
 ```bash
